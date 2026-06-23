@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Service</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background:#0f1117;
+font-family:Arial,sans-serif;
+color:#ffffff;
+padding:15px;
+line-height:1.7;
+}
+
+.header{
+background:#1a1d24;
+border-radius:18px;
+padding:20px;
+margin-bottom:15px;
+border:1px solid rgba(255,152,0,.15);
+}
+
+.card{
+background:#1a1d24;
+border-radius:18px;
+padding:18px;
+margin-bottom:15px;
+border:1px solid rgba(255,152,0,.15);
+}
+
+h1{
+font-size:28px;
+margin-bottom:8px;
+color:white;
+}
+
+h2{
+color:#ff9800;
+font-size:14px;
+margin-bottom:12px;
+text-transform:uppercase;
+letter-spacing:1px;
+}
+
+p, li{
+color:#d5d5d5;
+font-size:14px;
+margin-bottom:10px;
+}
+
+ul, ol{
+padding-left:18px;
+}
+
+a{
+color:#4da3ff;
+text-decoration:none;
+word-break:break-all;
+}
+
+.footer{
+text-align:center;
+color:#999;
+font-size:12px;
+margin-top:20px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+<h1>Terms of Service</h1>
+<p>Last updated: June 2026</p>
+</div>
+
+<div class="card">
+<h2>Acceptance of Terms</h2>
+<p>
+By using Smart Group Join, you agree to comply with these Terms of Service.
+If you do not agree with these terms, please do not use the application.
+</p>
+</div>
+
+<div class="card">
+<h2>Group and Channel Submission</h2>
+<p>Users may submit groups and channels from supported platforms including:</p>
+<ul>
+<li>WhatsApp Groups</li>
+<li>WhatsApp Channels</li>
+<li>Telegram Groups</li>
+<li>Telegram Channels</li>
+<li>Facebook Groups</li>
+<li>Messenger Groups</li>
+<li>Messenger Channels</li>
+</ul>
+
+<p>When submitting a group or channel:</p>
+<ol>
+<li>The user must provide a valid invite or public link.</li>
+<li>The system automatically detects the platform type.</li>
+<li>Unsupported or invalid links may be rejected automatically.</li>
+<li>After a supported link is accepted, the user may add group/channel name, description, image from gallery, and category.</li>
+<li>Location permission may be requested to help display groups relevant to nearby users.</li>
+</ol>
+</div>
+
+<div class="card">
+<h2>Location-Based Search</h2>
+<p>
+Smart Group Join allows users to discover groups and channels based on city, country, or nearby location.
+</p>
+<p>
+When a user searches for a specific city or area, only groups and channels associated with that location may be displayed.
+</p>
+<p>
+If no groups or channels are available for the searched location, no results may be shown.
+</p>
+</div>
+
+<div class="card">
+<h2>Approval Process</h2>
+<p>
+All submitted groups and channels may be reviewed before becoming publicly visible.
+</p>
+<p>The administrator reserves the right to:</p>
+<ul>
+<li>Approve submissions</li>
+<li>Reject submissions</li>
+<li>Remove submissions</li>
+<li>Edit categories when necessary</li>
+</ul>
+<p>Approval is not guaranteed.</p>
+</div>
